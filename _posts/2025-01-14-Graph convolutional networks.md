@@ -1,5 +1,5 @@
 ---
 layout: post
 title: "Learning Graph convolutional networks"
-date: "{{ 'now' | date: '%Y-%m-%d %H:%M:%S' }}"
+date:   2025-01-14 21:45
 ---
