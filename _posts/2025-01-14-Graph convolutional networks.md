@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Learning Graph convolutional networks"
 date:   2025-01-14 21:45
 categories: jekyll update
