@@ -15,9 +15,9 @@ timezone:
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # 主标题
+title: Zhu Ni # 主标题
 
-tagline: A text-focused Jekyll theme # 副标题
+tagline: LONG MAY THE SUN SHINE! # 副标题
 
 description: >- # 用于 SEO 元数据和 Atom feed
   一个简约、响应迅速且功能丰富的 Jekyll 主题，适用于技术写作。
@@ -30,7 +30,7 @@ github:
   username: nebuscar # 更改为您的 GitHub 用户名
 
 twitter:
-  username: twitter_username # 更改为您的 Twitter 用户名
+  username: nebuscar # 更改为您的 Twitter 用户名
 
 social:
   # 更改为您的全名。
@@ -44,6 +44,7 @@ social:
     # 取消注释以下内容以添加更多社交链接
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+    - https://steamcommunity.com/id/3014382844/
 
 # 网站验证设置
 webmaster_verifications:
@@ -97,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # 侧边栏上的头像，支持本地或 CORS 资源
-avatar:
+avatar: "./images/avatar/fish.jpg"
 
 # 用于 SEO `og:image` 元标签的站点范围社交预览图像 URL。
 # 可以通过前言中的自定义 `page.image` 覆盖。
