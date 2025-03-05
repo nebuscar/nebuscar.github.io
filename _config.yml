@@ -33,17 +33,12 @@ twitter:
   username: nebuscar # 更改为您的 Twitter 用户名
 
 social:
-  # 更改为您的全名。
-  # 它将显示为文章的默认作者和页脚中的版权所有者
   name: nebuscar
   email: 3014382844@qq.com # 更改为您的电子邮件地址
   links:
     # 第一个元素作为版权所有者的链接
     - https://x.com/nebuscar # 更改为您的 Twitter 主页
     - https://github.com/nebuscar # 更改为您的 GitHub 主页
-    # 取消注释以下内容以添加更多社交链接
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
     - https://steamcommunity.com/id/3014382844/
 
 # 网站验证设置
@@ -95,7 +90,7 @@ theme_mode: # [light | dark]
 # 注意，一旦分配，CDN URL 将添加到所有以 '/' 开头的媒体资源（站点头像、文章图片、音频和视频文件）路径中
 #
 # 例如 'https://cdn.com'
-cdn:
+cdn: /assets/images/fish.jpg
 
 # 侧边栏上的头像，支持本地或 CORS 资源
 avatar: /assets/images/fish.jpg
