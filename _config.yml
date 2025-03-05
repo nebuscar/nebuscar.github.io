@@ -1,35 +1,43 @@
 # The Site Configuration
+# 网站设置
 
 # Import the theme
+# 导入主题
+
 theme: jekyll-theme-chirpy
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
+# 如果与 `_data/locales` 文件夹中的文件同名，布局语言也会更改，
+# 否则，布局语言将使用默认值 'en'。
 lang: zh-CN
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
+# 更改为您的时区 › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Zhu Ni # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: LONG MAY THE SUN SHINE! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
+# 填写您的站点协议和主机名。
+# 例如 'https://username.github.io'，注意不要以 '/' 结尾。
 url: "https://nebuscar.github.io"
 
 github:
   username: nebuscar # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: nebuscar # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -41,8 +49,9 @@ social:
     - https://x.com/nebuscar # change to your Twitter homepage
     - https://github.com/nebuscar # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/nebuscar
+    - https://www.linkedin.com/in/nebuscar
+    - https://steamcommunity.com/id/3014382844/
 
 # Site Verification Settings
 webmaster_verifications:
