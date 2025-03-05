@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # 侧边栏上的头像，支持本地或 CORS 资源
-avatar: /images/fish.png # 或者使用远程图片 URL
+avatar: /images/avatar/fish.png # 或者使用远程图片 URL
 
 # 用于 SEO `og:image` 元标签的站点范围社交预览图像 URL。
 # 可以通过前言中的自定义 `page.image` 覆盖。
