@@ -1,7 +1,5 @@
-# 我的个人博客
-
-欢迎来到我的博客！这里会分享技术笔记和生活随笔。
-
-## 最新文章
-
-[关于我](/about.md) | [所有文章](/archive.md)
+---
+layout: home
+title: Home
+---
+Welcome to my blog!
