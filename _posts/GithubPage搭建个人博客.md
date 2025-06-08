@@ -1,3 +1,9 @@
+---
+title: "【TODO】抽取BFD数据库中TCR信息"
+author: "Zhu Ni"
+date: {{ site.time | date: "%Y-%m-%d" }}  # 自动当前日期
+---
+
 如果你想在 **GitHub Pages** 上搭建个人博客，**完全不依赖 Jekyll**，可以采用以下几种方法（无需本地安装任何工具，仅依赖 **Markdown + Git**）：  
 
 ---
