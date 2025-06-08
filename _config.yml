@@ -1,9 +1,2 @@
-title: My Blog
-description: A simple GitHub Pages blog
+title: Nebuscar的小窝
 theme: minima
-
-plugins:
-  - jekyll-paginate  # 启用分页插件
-  
-paginate: 5          # 每页显示的文章数
-paginate_path: "/page:num/"  # 分页路径格式（如/page2/）
