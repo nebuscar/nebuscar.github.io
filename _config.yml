@@ -2,5 +2,5 @@
 
 title: Nebuscar的小窝 # 显示在标签页和页眉
 description: "这是Nebuscar的小窝，记录生活点滴和技术分享。" # 网站描述
-theme: mistakes # Jekyll主题
+remote_theme: mistakes # Jekyll主题
 url: "https://nebuscar.github.io"
