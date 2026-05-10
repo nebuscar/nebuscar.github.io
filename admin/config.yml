@@ -1,0 +1,26 @@
+backend:
+  name: github
+  repo: nebuscar/nebuscar.github.io
+  branch: main
+  auth_type: pkce
+  app_id: REPLACE_WITH_YOUR_CLIENT_ID
+
+media_folder: "assets/img/posts"
+public_folder: "/assets/img/posts"
+
+locale: zh_Hans
+
+collections:
+  - name: "posts"
+    label: "文章"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "标题", name: "title", widget: "string" }
+      - { label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss ZZ", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", default: "" }
+      - { label: "分类", name: "categories", widget: "list", default: ["随笔"] }
+      - { label: "标签", name: "tags", widget: "list", default: [] }
+      - { label: "内容", name: "body", widget: "markdown" }
