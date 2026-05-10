@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: nebuscar/nebuscar.github.io
+  name: git-gateway
   branch: main
 
 media_folder: "assets/img/posts"
