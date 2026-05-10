@@ -3,7 +3,7 @@ backend:
   repo: nebuscar/nebuscar.github.io
   branch: main
   auth_type: pkce
-  app_id: REPLACE_WITH_YOUR_CLIENT_ID
+  app_id: Ov23lie7SuNRTUYp6iyR
 
 media_folder: "assets/img/posts"
 public_folder: "/assets/img/posts"
